@@ -12,3 +12,4 @@ Muellif: Nargis Qurbanova, Qrup: 5094-a2
 ## Skriptleri nece isletmek olar
 ./hesablamalar/hesabla.sh
 ./metn/soz.sh
+Layihə Ubuntu terminalında hazırlanmışdır.
