@@ -1,0 +1,4 @@
+Bu layihədə Ubuntu terminalı ilə işləməyi öyrəndim.
+Qovluqlar və fayllar yaratdim.
+Fayllari kopyaladim ve muqayise etdim.
+Git ve Linux emrleri ile praktika etdim.

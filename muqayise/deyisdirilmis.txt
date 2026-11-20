@@ -1,0 +1,14 @@
+Ad: Nargis
+Soyad: Qurbanova
+Universitet: BMU
+Ixtisas: Informasiya texnologiyalari
+Seher: Baki
+Sevdiyim fenn: Emeliyyat sistemleri
+Sevdiyim emeliyyat sistemi: Linux
+Hobbi: Film izlemek
+Sevdiyim dil: Python
+Arzum: IT mutexessisi olmaq
+Dil: Azerbaycan, Ingilis
+Tarix: 20.11.2026
+Hobbi: Musiqi dinlemek
+
